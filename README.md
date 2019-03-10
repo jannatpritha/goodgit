@@ -1,0 +1,2 @@
+# goodgit
+for testing git
